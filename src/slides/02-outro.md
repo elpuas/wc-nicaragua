@@ -1,14 +1,33 @@
-Images can be embedded from the local filesystem!
+## Is There Any Other Tools or Frameworks?
+Of Course they are
 
-![xkcd on standards](./standards.png)
+---
+> Full Services
+> - Strattic
+> - Getshifter
+---
+> ## SSG
+> - Frontity
 
-(attribution: xkcd.com)
+> ## SSR
+> - Nuxt
 
 ---
 
-![Monkey](//i.imgur.com/PnbINJ6.gif)
+## You can connect your WP using the REST API to any Framework you like
 
-🌟 Star it on [GitHub](//github.com/fabe/gatsby-deck),  
-or create your own with:
+---
+> # Thank You!
+> ### Alfredo Navas
 
-    gatsby new my-slides https://github.com/fabe/gatsby-starter-deck
+> - Frontend Engineer [@webdevstudios](https://webdevstudios.com)
+> - Twitter [@3lpu4s](https://twitter.com/3LPU4S)
+> - WordPress [elpuas](https://profiles.wordpress.org/elpuas/)
+> - Github [elpuas](https://github.com/elpuas)
+> - Website [elpuas.com](https://www.elpuas.com/)
+
+---
+
+*This presentation was made in [GatsbyJS](https://www.gatsbyjs.com)*
+
+---
