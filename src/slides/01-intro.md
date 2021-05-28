@@ -1,8 +1,5 @@
 # Headless WordPress
-
 ### GatsbyJS or NextJS
-Alfredo Navas
-
 
 ---
 
@@ -17,15 +14,15 @@ Alfredo Navas
 Benefits
 
 ---
-> ### Performance
+> ## Performance
 >Headless WordPress only connects to your sites and apps through an API rather than having a login screen right there on the front end server.
 
 ---
-> ### Security
+> ## Security
 > Consequently, hackers will have a much harder time brute forcing their way into your sensitive content.
 
 ---
-> ### Future Proof Solution
+> ## Future Proof Solution
 > Headless CMS enables you to release content. You can deliver the content to Smart Speakers, Mobile Apps, VR/AR, Smart refrigerators, Connected cars, Moreover, it can assist you to send in devices that are yet to be released.
 
 ---
@@ -34,7 +31,9 @@ Benefits
 
 ---
 
-> The difference between SSG and SSR is when the page's HTML is generated. When using SSG, the HTML is generated in build time. SSG pre-rendering makes it easy to cache and fast to deliver. The term “static” comes from the fact that the HTML is static. But it doesn't necessarily mean that the page is static.
+> The difference between CSR and SSR is when the page's HTML is generated.
+> When using CSR, the HTML is generated in build time. Client Side Rendering pre-rendering makes it easy to cache and fast to deliver.
+> _The term “static” comes from the fact that the HTML is static._ But it doesn't necessarily mean that the page is static.
 
 ---
 > ## Client Side Rendering
@@ -112,8 +111,8 @@ Benefits
 # GatsbyJS or NextJS
 
 ---
-# GatsbyJS or NextJS
-Is Good for SEO?
+GatsbyJS or NextJS
+# Is Good for SEO?
 
 ---
 
@@ -124,8 +123,8 @@ Is Good for SEO?
 > **Gatsby:** Gatsby is purely SEO friendly as the websites and apps built with Gatsby deliver pre-rendered HTML. your websites have good Lighthouse scores giving brilliant user experience (UX).
 
 ---
-# GatsbyJS or NextJS
-Server Side Rendered vs Statically Generated?
+GatsbyJS or NextJS
+# Server Side Rendered vs Statically Generated?
 
 ---
 > Gatsby is a static site generator tool. A static site generator generates static HTML on build time. It doesn’t use a server.
@@ -135,9 +134,9 @@ Server Side Rendered vs Statically Generated?
 
 ---
 
-## Of course, both can call APIs client side.
-## The fundamental difference is Next requires a server to be able to run.
-## Gatsby can function without any server at all.
+# Of course, both can call APIs client side.
+### The fundamental difference is Next requires a server to be able to run.
+### Gatsby can function without any server at all.
 
 ---
 
@@ -159,8 +158,7 @@ Data Handling
 ---
 
 # So what should I choose?
-### Whether you should use Gatsby or Next depends very much on your use case,
-### as really they are both awesome.
+### Whether you should use Gatsby or Next depends very much on your use case, as really they are both awesome.
 
 ---
 > ## When To Use Next.JS
