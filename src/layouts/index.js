@@ -55,6 +55,8 @@ class TemplateWrapper extends Component {
 
   render() {
     const { location, children, site } = this.props;
+    const page = this.props.path.replace('/', '');
+    console.log({page})
 
     return (
       <div>
@@ -71,7 +73,9 @@ class TemplateWrapper extends Component {
           onSwipedRight={this.swipeRight}
         >
           <Transition location={location}>
-            <div id="slide" className={ `slide-${this.props.data.slide.index} ${this.props.data.slide.index % 2 === 0 ? `even` : ''}` } style={{'width': '100%'}}>{children}</div>
+            <div id="slide" style={{'width': '100%'}} className={ `slide-${page}` }>
+                {children}
+            </div>
           </Transition>
         </Swipeable>
       </div>
