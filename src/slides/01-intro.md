@@ -140,8 +140,8 @@ GatsbyJS or NextJS
 
 ---
 
-# GatsbyJS or NextJS
-Data Handling
+GatsbyJS or NextJS
+# Data Handling
 
 ---
 
@@ -166,11 +166,13 @@ Data Handling
 
 ---
 > ## When to Use Gatsby
-> This is my personal preference, I use Gatsby when I am building small-scale websites and blogs. The eco-system is perfect for hooking up to WordPress (it is literally a breeze) and there are some awesome guides on how to get going with it all.
+> This is my personal preference, I use Gatsby when I am building my websites and blogs. The eco-system is perfect for hooking up to WordPress (it is literally a breeze) and there are some awesome guides on how to get going with it all.
 
 ---
-## Verdict?
-# It depends.
+## Cons?
+There are no cons choosing between GatsbyJS or NextJS,
+both are great tools and fit pretty well in the headless ecosystem.
+
 
 
 

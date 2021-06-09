@@ -1,16 +1,19 @@
-## Is There Any Other Tools or Frameworks?
-Of Course they are
+## Where to Start?
+The Web is fully of tutorials and articles, here are my favorite ones:
+
 
 ---
-> Full Services
-> - Strattic
-> - Getshifter
+> - [WPGraphQL](https://www.wpgraphql.com/docs/settings/) - Works pretty well with both
+> - [NextJS Official WordPress Starter](https://github.com/vercel/next.js/tree/canary/examples/cms-wordpress)
+> - [GatsbyJS Official WordPress Plugin](https://www.gatsbyjs.com/plugins/gatsby-source-wordpress/)
+> - [WDS NextJS Starter](https://github.com/WebDevStudios/nextjs-wordpress-starter)
 ---
-> ## SSG
-> - Frontity
-
-> ## SSR
-> - Nuxt
+> ## Tutorials
+> - [NextJS Tutorials](https://nextjs.org/learn/basics/create-nextjs-app)
+> - [GatsbyJS](https://www.gatsbyjs.com/docs/tutorial/)
+> ## Other Frameworks
+> - [Frontity](https://frontity.org/)
+> - [Nuxt](https://nuxtjs.org/)
 
 ---
 
@@ -19,7 +22,7 @@ Of Course they are
 ---
 > # Thank You!
 
-> Frontend Engineer [@webdevstudios](https://webdevstudios.com), Works with WordPress - React - GatsbyJS & I'm an Open Source Advocate.
+> Frontend Engineer [@webdevstudios](https://webdevstudios.com), Works with WordPress, React, GatsbyJS, and NextJS.
 
 > - ![Twitter](https://www.creativefreedom.co.uk/wp-content/uploads/2017/06/Twitter-featured.png) [@3lpu4s](https://twitter.com/3LPU4S)
 > - ![WordPress](https://cdn.iconscout.com/icon/free/png-512/wordpress-35-569289.png) [/elpuas](https://profiles.wordpress.org/elpuas/)
