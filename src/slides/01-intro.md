@@ -104,7 +104,7 @@ Para el ejemplo azul oscuro sería:
 
 ## Tipografía
 
-> Al igual que con los colores, puede especificar la configuración para los tamaños de fuente, de la misma manera puede deshabilitar a los usuarios para que no especifiquen su propio tamaño de fuente personalizado, esto hace que sea más fácil tener una tipografía consistente en todo el sitio.
+ Al igual que con los colores, puede especificar la configuración para los tamaños de fuente, de la misma manera puede deshabilitar a los usuarios para que no especifiquen su propio tamaño de fuente personalizado, esto hace que sea más fácil tener una tipografía consistente en todo el sitio.
 
 <div class="flex-container">
 <div class="flex-item">
@@ -127,7 +127,7 @@ Para el ejemplo azul oscuro sería:
 
 > ## Usar propiedades en elementos o bloques
 
->La configuración (`settings`) es una propiedad superior del `theme.json`, otra son los estilos que le permiten especificar estilos específicos para bloques o elementos.
+> La configuración (`settings`) es una propiedad superior del `theme.json`, otra son los estilos que le permiten especificar estilos para bloques o elementos.
 
 </div>
 

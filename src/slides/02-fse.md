@@ -1,7 +1,6 @@
 <div class="intro">
 
 # Temas Basados en Bloques
-### WordCamp Nicaragua 2021
 
 </div>
 
@@ -128,7 +127,7 @@ En el editor y activemos nuestro tema. En `Apariencia => Temas` y allí tenemos 
 
 <div class="content w-images">
 
-> ## Bloques Disponibles:
+> ## El Admin FSE:
 
 <div class="flex-container">
 <div class="flex-item">
