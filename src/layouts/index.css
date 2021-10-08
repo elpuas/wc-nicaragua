@@ -111,6 +111,16 @@ pre {
 code {
   font-family: menlo, monospace;
   font-size: 90%;
+  background: #01f700;
+  border-radius: 4px;
+  padding: 0 5px;
+  color: #47525d;
+}
+
+a {
+  color: purple;
+  text-decoration: underline;
+  text-decoration-style: dashed;
 }
 
 a:hover {
@@ -259,7 +269,7 @@ em {
 }
 
 .content blockquote {
-  margin-left: 0;
+  margin: 0;
 }
 
 .w-images {
@@ -274,12 +284,44 @@ em {
 
 .flex-item {
   width: 100%;
+  padding: 24px;
 }
 
 w-images .span {
   width: 100%;
 }
 
+.w-list li {
+  font-size: 24px;
+}
+
 .half {
   width: 50%;
+}
+
+.nav {
+  width: 200px;
+}
+
+.intro blockquote {
+  text-align: center;
+}
+
+.info ul {
+  display: flex;
+}
+
+.info li {
+  width: 100%;
+  display:flex;
+  flex-direction: column;
+  align-items: bottom;
+  justify-content: center;
+  text-align: center;
+}
+
+.info li img {
+  margin: auto;
+  width: 50px;
+  object-fit: contain;
 }

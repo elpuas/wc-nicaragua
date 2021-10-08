@@ -37,7 +37,7 @@ Antes de poder usar el editor del sitio para crear nuevas plantillas, es necesar
 > ## Tema Basico
 
 <div class="flex-container">
-<div class="flex-item">
+<div class="flex-item w-list">
 
 - Una carpeta del tema dentro de `wp-content/themes`.
 - Un archivo `style.css`.
@@ -131,20 +131,20 @@ En el editor y activemos nuestro tema. En `Apariencia => Temas` y allí tenemos 
 > ## Bloques Disponibles:
 
 <div class="flex-container">
-<div class="flex-item half">
+<div class="flex-item">
 
 ![bloques](../images/fseadmin.jpg)
 
 </div>
-<div class="flex-item">
+<div class="flex-item w-list">
 
 > El administrador del FSE:
 
-- Templates - Manejamos las plantillas globales como index, front page, single... etc.
-- Template Parts - Manejamos los plantillas como header, footer o sidebar.
-- Pages - Podemos asignar bloques personalizados a cada pagina
-- Categories - Podemos asignar bloques personalizados a cada categoria
-- Posts - Podemos asignar bloques personalizados a cada post
+- **Templates** - Manejamos las plantillas globales como index, front page, single... etc.
+- **Template Parts** - Manejamos los plantillas como header, footer o sidebar.
+- **Pages** - Podemos asignar bloques personalizados a cada pagina
+- **Categories** - Podemos asignar bloques personalizados a cada categoria
+- **Posts** - Podemos asignar bloques personalizados a cada post
 
 </div>
 

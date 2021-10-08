@@ -25,7 +25,7 @@ La Web está llena de tutoriales y artículos, aquí están mis favoritos:
 
 <div class="info">
 
-> Frontend Engineer [@webdevstudios](https://webdevstudios.com), Works with WordPress, React, GatsbyJS, and NextJS.
+> Frontend Engineer [@webdevstudios](https://webdevstudios.com), En mi dia a dia trabajo con WordPress, React, GatsbyJS, and NextJS.
 
 > - ![Twitter](https://www.creativefreedom.co.uk/wp-content/uploads/2017/06/Twitter-featured.png) [@3lpu4s](https://twitter.com/3LPU4S)
 > - ![WordPress](https://cdn.iconscout.com/icon/free/png-512/wordpress-35-569289.png) [/elpuas](https://profiles.wordpress.org/elpuas/)

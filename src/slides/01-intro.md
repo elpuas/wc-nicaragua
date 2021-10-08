@@ -1,7 +1,17 @@
-<div class="intro w-nav">
+<div class="intro">
 
 # Full Site Editing + Temas Basados en Bloques
 ### WordCamp Nicaragua 2021
+
+</div>
+
+---
+
+<div class="intro w-nav">
+
+### https://wcnicaragua.gatsbyjs.io/
+
+Usa las teclas para navegar la presentacion.
 
 <div class="nav">
 
@@ -94,7 +104,7 @@ Para el ejemplo azul oscuro sería:
 
 ## Tipografía
 
-Al igual que con los colores, puede especificar la configuración para los tamaños de fuente, de la misma manera puede deshabilitar a los usuarios para que no especifiquen su propio tamaño de fuente personalizado, esto hace que sea más fácil tener una tipografía consistente en todo el sitio.
+> Al igual que con los colores, puede especificar la configuración para los tamaños de fuente, de la misma manera puede deshabilitar a los usuarios para que no especifiquen su propio tamaño de fuente personalizado, esto hace que sea más fácil tener una tipografía consistente en todo el sitio.
 
 <div class="flex-container">
 <div class="flex-item">
@@ -116,7 +126,8 @@ Al igual que con los colores, puede especificar la configuración para los tama�
 <div class="content">
 
 > ## Usar propiedades en elementos o bloques
-La configuración (`settings`) es una propiedad de nivel superior de `theme.json`, otra son los estilos que le permiten especificar estilos específicos para bloques o elementos.
+
+>La configuración (`settings`) es una propiedad superior del `theme.json`, otra son los estilos que le permiten especificar estilos específicos para bloques o elementos.
 
 </div>
 
@@ -124,7 +135,7 @@ La configuración (`settings`) es una propiedad de nivel superior de `theme.json
 
 <div class="content w-images">
 
-> Un ejemplo de configuración del margen y el color de los bloques de cita (`blockquote`):
+Un ejemplo de configuración del margen y el color de los bloques de cita (`blockquote`):
 
 <div class="flex-container">
 <div class="flex-item">
@@ -133,6 +144,7 @@ La configuración (`settings`) es una propiedad de nivel superior de `theme.json
 
 </div>
 <div class="flex-item">
+
 Esto producirá el siguiente CSS:
 
 ![image](../images/bloquecss.jpg)
