@@ -1,8 +1,8 @@
 {
-  "name": "gatsby-deck",
+  "name": "wc-nicaragua",
   "description": "Create presentations using Gatsby, React & Markdown.",
-  "version": "2.0.0",
-  "author": "Fabian Schultz <desk@fabianschultz.com>",
+  "version": "1.0.0",
+  "author": "Alfredo Navas <elpuas@gmail.com>",
   "dependencies": {
     "gatsby": "^2.2.0",
     "gatsby-plugin-layout": "^1.0.1",

@@ -1,8 +1,8 @@
 module.exports = {
   siteMetadata: {
     name: `Alfredo Navas`,
-    title: `WCEU 2021`,
-    date: `June 7-9, 2021`,
+    title: `WordCamp Nicaragua`,
+    date: `Octubre 8-9, 2021`,
   },
   plugins: [
     `gatsby-plugin-layout`,
@@ -13,6 +13,12 @@ module.exports = {
       options: {
         name: `slides`,
         path: `${__dirname}/src/slides`,
+      },
+    },
+    {
+      resolve: `gatsby-source-filesystem`,
+      options: {
+        path: `${__dirname}/src/images`,
       },
     },
     {
